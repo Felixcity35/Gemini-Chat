@@ -1,2 +1,5 @@
 //this is just for demo sake.(uses .env file to store key)
-const apiKey = 'AIzaSyAAQ_4dLxCT5ddL5GDF6TVZJDxa1YppiqI';
+
+// link to generate API-KEY
+//https://aistudio.google.com/app/apikey
+const apiKey = '';
